@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+    color: deeppink; background-color: gold;
+    font-size: 50px;
+}
+.antra{
+    color: dodgerblue;
+    padding: 16px;
+}
+p{
+    background-color: rgb(216, 170, 193);
+    font-weight: bold;
+    font-style: oblique 20deg;
+    border: 3px solid brown;
+}
+a{
+    background-color: khaki;
+}
+.galerija {
+    background-color: burlywood;
+    padding: 50px;
+    width: 100%;
+    
+}
+div.galerija img {
+    text-align: center;
+    border: 5px solid black;
+    padding: 15px;
+    background-color: rgb(169, 148, 189);
+    box-shadow: grey 5px 5px 10px;
+}
